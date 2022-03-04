@@ -1,34 +1,70 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# RMONews blog
 
-## Getting Started
+<p>
+  <img src="https://img.shields.io/badge/made%20by-Renan%20MDO-black?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/RenanMDO/RMOdash?color=black&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/RenanMDO/RMOdash?color=black&style=flat-square">
+</p>
 
-First, run the development server:
+<img align="right" src="src/images/logo.svg" width="35%" alt="RMO.dash">
+
+## Topics 
+
+[About RMO Money](#about-rmodash)
+
+[Technologies](#technologies)
+
+[installation and use](#installation-and-use)
+
+
+## About RMODash
+
+RMO.dash is a dashboard template with advanced frontend technologies, with login screen, graphics screen, user table and user registration screen.
+
+<br>
+
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/466146834/6872050b-5f88-4c9b-9abc-a7792136dc50" alt="Cover RMO.dash">
+</p>
+
+## Technologies
+
+The following tools were used in building the project:
+
+- [ChakraUI](https://chakra-ui.com)
+- [React Hook Form](https://github.com/react-hook-form/react-hook-form)
+- [ReactJS](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [ApexCharts](https://apexcharts.com)
+- [NextJS](https://nextjs.org)
+- [React Icons](https://react-icons.github.io/react-icons)
+- [React Query](https://react-query.tanstack.com/overview)
+- [Axios](https://axios-http.com/docs/intro)
+- [Yup](https://github.com/jquense/yup)
+- [MirageJS](https://miragejs.com)
+ 
+</div>
+
+
+
+## installation and use
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone this repository 
+$ git clone <https://github.com/RenanMDO/RMOdash.git>
+
+# Access the project folder in terminal/cmd
+$ cd RMOdash
+
+# Install dependencies
+$ yarn install
+
+# Run the application in development mode
+$ yarn dev
+
+# Server will start on port:3000 - go to <http://localhost:3000>
 ```
+Feito com :black_heart: by [Renan Montenegro de Oliveira](https://github.com/RenanMDO/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[![Linkedin Badge](https://img.shields.io/badge/-Renan%20MDO-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanmdo/)](https://www.linkedin.com/in/renanmdo/) 
+[![Gmail Badge](https://img.shields.io/badge/-renan.montenegro.oliveira@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renan.montenegro.oliveira@gmail.com)](mailto:renan.montenegro.oliveira@gmail.com)
