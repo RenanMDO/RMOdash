@@ -1,4 +1,4 @@
-# RMONews blog
+# RMO.dash
 
 <p>
   <img src="https://img.shields.io/badge/made%20by-Renan%20MDO-black?style=flat-square">
