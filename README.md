@@ -64,7 +64,7 @@ $ yarn dev
 
 # Server will start on port:3000 - go to <http://localhost:3000>
 ```
-Feito com :black_heart: by [Renan Montenegro de Oliveira](https://github.com/RenanMDO/)
+Made with :black_heart: by [Renan Montenegro de Oliveira](https://github.com/RenanMDO/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Renan%20MDO-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanmdo/)](https://www.linkedin.com/in/renanmdo/) 
 [![Gmail Badge](https://img.shields.io/badge/-renan.montenegro.oliveira@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renan.montenegro.oliveira@gmail.com)](mailto:renan.montenegro.oliveira@gmail.com)
